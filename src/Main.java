@@ -26,5 +26,6 @@ public class Main {
         System.out.println(sl.length());
         System.out.println(sl.substring(8,13).toUpperCase());
         System.out.println(sl.trim());
+        System.out.println();
     }
 }
